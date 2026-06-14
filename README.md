@@ -18,6 +18,7 @@ Plan and skills based on Boris's tips and the Claude Code team's best practices.
 | **update-claude-md** | `/update-claude-md` or auto | After a correction, update CLAUDE.md so the same mistake isn't repeated. |
 | **codebase-reuse** | `/codebase-reuse` or auto | Before adding code, explore for reusable functions; in code review, check for duplication. |
 | **claude-code-practices** | `/claude-code-practices` | Quick reference for all 10 Boris/team tips. |
+| **repo-deep-clean** | `/repo-deep-clean` | Prune claude branches/worktrees and sync read-only git clones across projects. |
 
 ## Setup
 
